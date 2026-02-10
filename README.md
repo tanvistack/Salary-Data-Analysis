@@ -62,6 +62,3 @@ Currently building small projects using Python
 
 
 
-
-1. Install required libraries:
-
