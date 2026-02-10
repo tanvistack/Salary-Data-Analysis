@@ -36,8 +36,7 @@ This project allows users to analyze salary data stored in CSV files and perform
 
 1. Install required libraries:
 2. Run the program:
-3. 
-3. A GUI window will open to perform salary analysis.
+3.  A GUI window will open to perform salary analysis.
 
 ---
 
